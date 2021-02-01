@@ -26,6 +26,7 @@ There are different units that can be used in CSS:
     height: 100%; /* percentage of the parent element */
     height: 100vh; /* percentage of the entire window */
     height: 1rem; /* responsive (to the font-size of html) */
+    height: calc(100% - 10px); /* calculate a percentage minus a pixel value */
 }
 ```
 
