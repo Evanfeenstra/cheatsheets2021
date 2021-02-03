@@ -15,6 +15,7 @@
 - `npm install -g LIBRARY`: install a global library
 - `npm start`: start your app
 - `npm build`: build your app
+- `ctrl-c`: will stop your app
 
 ### git
 
